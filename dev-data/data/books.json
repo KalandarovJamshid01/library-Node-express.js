@@ -5,5 +5,12 @@
     "image": "image",
     "date": "date",
     "author": "author"
+  },
+  {
+    "id": 1,
+    "name": "Name",
+    "image": "image",
+    "date": "date",
+    "author": "author"
   }
 ]

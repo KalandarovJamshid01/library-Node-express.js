@@ -2,8 +2,8 @@
   {
     "id": 0,
     "name": "Name",
-    "Surname": "Surname",
-    "Email": "Email",
-    "Passwor": 1111
+    "surname": "Surname",
+    "email": "Email",
+    "password": 1111
   }
 ]
